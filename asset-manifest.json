@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/ums/static/css/main.2c0d3c60.chunk.css",
+    "main.js": "/ums/static/js/main.e4f32f47.chunk.js",
+    "main.js.map": "/ums/static/js/main.e4f32f47.chunk.js.map",
+    "runtime-main.js": "/ums/static/js/runtime-main.85aa536c.js",
+    "runtime-main.js.map": "/ums/static/js/runtime-main.85aa536c.js.map",
+    "static/js/2.1c6ae5a7.chunk.js": "/ums/static/js/2.1c6ae5a7.chunk.js",
+    "static/js/2.1c6ae5a7.chunk.js.map": "/ums/static/js/2.1c6ae5a7.chunk.js.map",
+    "index.html": "/ums/index.html",
+    "precache-manifest.8bd19ed80d9677846a1ad0f6da81db00.js": "/ums/precache-manifest.8bd19ed80d9677846a1ad0f6da81db00.js",
+    "service-worker.js": "/ums/service-worker.js",
+    "static/css/main.2c0d3c60.chunk.css.map": "/ums/static/css/main.2c0d3c60.chunk.css.map",
+    "static/js/2.1c6ae5a7.chunk.js.LICENSE.txt": "/ums/static/js/2.1c6ae5a7.chunk.js.LICENSE.txt",
+    "static/media/active.svg": "/ums/static/media/active.781c3d80.svg",
+    "static/media/assignment.svg": "/ums/static/media/assignment.ccb0e9d9.svg",
+    "static/media/attendance.svg": "/ums/static/media/attendance.57775afe.svg",
+    "static/media/card_attendance.svg": "/ums/static/media/card_attendance.f8609941.svg",
+    "static/media/card_classes.svg": "/ums/static/media/card_classes.9f7fa32b.svg",
+    "static/media/card_student.svg": "/ums/static/media/card_student.02593b36.svg",
+    "static/media/card_student_1.svg": "/ums/static/media/card_student_1.52f13c8b.svg",
+    "static/media/card_student_2.svg": "/ums/static/media/card_student_2.b84806a3.svg",
+    "static/media/classes.svg": "/ums/static/media/classes.c21dc5ce.svg",
+    "static/media/massege.svg": "/ums/static/media/massege.9e460af2.svg",
+    "static/media/notification.svg": "/ums/static/media/notification.8ea47e35.svg",
+    "static/media/profile_pic.JPG": "/ums/static/media/profile_pic.ce4209f3.JPG",
+    "static/media/s1.svg": "/ums/static/media/s1.67d15d2c.svg",
+    "static/media/seu-logo.png": "/ums/static/media/seu-logo.b9f08b8c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85aa536c.js",
+    "static/js/2.1c6ae5a7.chunk.js",
+    "static/css/main.2c0d3c60.chunk.css",
+    "static/js/main.e4f32f47.chunk.js"
+  ]
+}
