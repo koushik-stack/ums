@@ -1,0 +1,9 @@
+.table_main{
+    width: 100%;
+    background: white;
+    height: 200px;
+}
+.table_header{
+    display: flex;
+    justify-content: space-around;
+}

@@ -1,9 +1,9 @@
 import React from 'react';
-import {Grid, Container, Typography, Box} from "@material-ui/core";
+import {Grid, Typography, Box, Link} from "@material-ui/core";
 import MailOutlineIcon from '@material-ui/icons/MailOutline';
 import LockOpenIcon from '@material-ui/icons/LockOpen';
 import logo from "../Images/seu-logo.png"
-import "../CSS/login.css"
+import "../css/login.css"
 
 
 const Login = () => {
@@ -45,7 +45,7 @@ const Login = () => {
                             <button type="submit">Login</button>
                         </Typography>
                         <Typography component="div" align="center" variant="div" className="forgot-pass">
-                            <a href="#">Forgotten password?</a>
+                            <Link href="#">Forgotten password?</Link>
                         </Typography>
 
                     </Box>
